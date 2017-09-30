@@ -1,0 +1,9 @@
+s folder contains two schema one of users and others of data
+ thatis two schema and the subfields are described inside it
+
+
+
+ >> We have created two model class one is user and other one is data using export function
+ >>Now if we want to create a  Data model  we just do it by using command
+
+ var Data = require('../models/Data')
